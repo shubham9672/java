@@ -6,7 +6,7 @@ public static void main(String[] a1){
   a2[1]=20;
   a2[2]=30;
   a2[3]=0;
-  System.out.println(a2);
+  System.out.println(a2)
   for(int i : a2){
     System.out.println(i);
   }
